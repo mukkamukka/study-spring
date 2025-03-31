@@ -1,5 +1,6 @@
 package hello.inflearn_spring_beginner;
 
+import hello.inflearn_spring_beginner.aop.TimeTraceAop;
 import hello.inflearn_spring_beginner.repository.*;
 import hello.inflearn_spring_beginner.service.MemberService;
 import jakarta.persistence.EntityManager;
